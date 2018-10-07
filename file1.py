@@ -1,1 +1,1 @@
-print("coucou les amis")
+print("c'est moi les amis")
